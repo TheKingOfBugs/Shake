@@ -1,0 +1,3 @@
+C:\Users\1\Desktop\Прога\Учеба\УЧЕБНЫЕ проекты 2\Shake\Shake\x64\Debug\Shake.vcxproj.AssemblyReference.cache
+C:\Users\1\Desktop\Прога\Учеба\УЧЕБНЫЕ проекты 2\Shake\Shake\x64\Debug\Shake.Shake.resources
+C:\Users\1\Desktop\Прога\Учеба\УЧЕБНЫЕ проекты 2\Shake\Shake\x64\Debug\Shake.vcxproj.GenerateResource.cache
